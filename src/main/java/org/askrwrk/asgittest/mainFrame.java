@@ -78,6 +78,11 @@ public class mainFrame extends javax.swing.JFrame {
     pack();
   }// </editor-fold>//GEN-END:initComponents
 
+
+  /**
+   * 
+   * @param evt 
+   */
   private void butBurpActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_butBurpActionPerformed
 
     if( panelOne1.getBackground() == Color.green )
