@@ -1,8 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Why can't I 'git pull' on this machine???
  */
+
 package org.askrwrk.asgittest;
 
 import java.awt.Color;
