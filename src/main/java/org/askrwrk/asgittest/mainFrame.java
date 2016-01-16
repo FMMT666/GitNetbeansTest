@@ -84,10 +84,21 @@ public class mainFrame extends javax.swing.JFrame {
    */
   private void butBurpActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_butBurpActionPerformed
 
-    if( panelOne1.getBackground() == Color.green )
-      panelOne1.setBackground( Color.red );
+    // Just some changes to test Github release tags in Netbeans.
+    
+    Color curColor = panelOne1.getBackground();
+    Color newColor;
+    
+    if( curColor == Color.red )
+      newColor = Color.green;
+    else if( curColor == Color.green )
+      newColor = Color.blue;
+    else if( curColor == Color.blue )
+      newColor = Color.red;
     else
-      panelOne1.setBackground( Color.green );
+      newColor = Color.red;
+    
+    panelOne1.setBackground( newColor );
 
   }//GEN-LAST:event_butBurpActionPerformed
 
