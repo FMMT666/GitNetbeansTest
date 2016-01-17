@@ -96,6 +96,8 @@ public class mainFrame extends javax.swing.JFrame {
     else if( curColor == Color.blue )
       newColor = Color.yellow;
     else if( curColor == Color.yellow )
+      newColor = Color.pink;
+    else if( curColor == Color.pink )
       newColor = Color.red;
     else
       newColor = Color.red;
