@@ -1,5 +1,7 @@
 /**
  * Why can't I 'git pull' on this machine???
+ * Now, it works on that ^^ one, but not on this <<
+ * :-/
  */
 
 package org.askrwrk.asgittest;
