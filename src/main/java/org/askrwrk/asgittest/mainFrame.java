@@ -4,6 +4,8 @@
  * :-/
  * 
  * Not that my life depends on this, but it's all just annoying.
+ * 
+ * *rage mode on*
  */
 
 package org.askrwrk.asgittest;
